@@ -1,32 +1,14 @@
-## My name is Jacob Bernard
+## Jacob Bernard
+## Experienced Software Developer
 
-You can use the [editor on GitHub](https://github.com/jbernard3396/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Five years of Software Development Experience
+Passionate about problem solving and game design
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Game Jam Entries
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[https://jbernard3396.itch.io/orbitz](orbits) submitted to Ludem Dare 47 where it ranked 234th out of around 800 entries
+[https://jbernard3396.itch.io/leroy-lazlo](Leroy & Lazlo) submitted to a Game Jam at Taylor University where it placed 2nd out of 11
+[https://jbernard3396.itch.io/life-on-mars2](Life on Mars) Submitted to a Game Jam at Taylor University where it placed 1st out of 12
 
 ### Jekyll Themes
 
