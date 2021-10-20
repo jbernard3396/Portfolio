@@ -42,3 +42,10 @@ The biggest challenge was developing an algorythm to process the image and deter
 After we implemented the core algorythm, we were able to work closely with the clients to ensure they had all of the features, customization, and control they needed to make the project not only functional, but actually useful in the real world.  
 ### Outcome:
 We were able to not only label all of the maps they had on hand, we also left them with a product that they can use to label maps for years to come.
+
+
+## OTher projects to highlight
+https://github.com/jbernard3396/Tessalations
+https://github.com/jbernard3396/FizzBuzz
+https://github.com/jbernard3396/PlaylistAlgorythm
+codingames
