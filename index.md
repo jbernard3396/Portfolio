@@ -6,17 +6,16 @@ Passionate about problem solving and game design
 
 ### Game Jam Entries
 
-[https://jbernard3396.itch.io/orbitz](orbits) submitted to Ludem Dare 47 where it ranked 234th out of around 800 entries
+[Orbits](https://jbernard3396.itch.io/orbitz) submitted to Ludem Dare 47 where it ranked 234th out of around 800 entries
 
-[https://jbernard3396.itch.io/leroy-lazlo](Leroy & Lazlo) submitted to a Game Jam at Taylor University where it placed 2nd out of 11
+[Leroy & Lazlo](https://jbernard3396.itch.io/leroy-lazlo) submitted to a Game Jam at Taylor University where it placed 2nd out of 11
 
-[https://jbernard3396.itch.io/life-on-mars2](Life on Mars) Submitted to a Game Jam at Taylor University where it placed 1st out of 12
+[Life on Mars](https://jbernard3396.itch.io/life-on-mars2) Submitted to a Game Jam at Taylor University where it placed 1st out of 12
 
+For more examples of personal games, check out my [games page](https://jbernard3396.itch.io/).  The games are more or less sorted from top to bottom by quality and accessibility.
 
-### Jekyll Themes
+### Coding Projects
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jbernard3396/Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[ThinSat Project](https://github.com/jbernard3396/ET-Sat)
+Taylor University Computer Science and Engineering departments teamed up to launch the first ever student built satelite into space. I had the extreme honor of being team lead of the Software Development team. I oversaw everything from the core kernel processes to the main loop. We had to coordinate with the engineering team to turn on, test, and pull date from each of the sensors so that we could get back data which we then communicated back to ground. It was a groundbreaking project that I was thrilled to be a part of.  The most challenging part was having not only to manage my team building software, but also communicate with the engineering side to understand what they had and what they needed.  Read more about the project [here](https://cse.taylor.edu/articles/thinsat-a/)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
