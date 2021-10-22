@@ -1,20 +1,23 @@
 ## Jacob Bernard
 ## Experienced Software Developer
-### Passion Integrity Curiousty
+# Passion Integrity Curiousty
 
-Five years of Software Development Experience
+### Five years of Software Development Experience
 
-Passionate about problem solving and game design
+### Passionate about problem solving and game design
 
 # Game Jam Entries
 
-[Orbits](https://jbernard3396.itch.io/orbitz) submitted to Ludem Dare 47 where it ranked 234th out of around 800 entries
+## [Orbits](https://jbernard3396.itch.io/orbitz) 
+submitted to Ludem Dare 47 where it ranked 234th out of around 800 entries
 
-[Leroy & Lazlo](https://jbernard3396.itch.io/leroy-lazlo) submitted to a Game Jam at Taylor University where it placed 2nd out of 11
+## [Leroy & Lazlo](https://jbernard3396.itch.io/leroy-lazlo) 
+submitted to a Game Jam at Taylor University where it placed 2nd out of 11
 
-[Life on Mars](https://jbernard3396.itch.io/life-on-mars2) Submitted to a Game Jam at Taylor University where it placed 1st out of 12
-
-For more examples of personal games, check out my [games page](https://jbernard3396.itch.io/).  The games are more or less sorted from top to bottom by quality and accessibility.
+## [Life on Mars](https://jbernard3396.itch.io/life-on-mars2) 
+Submitted to a Game Jam at Taylor University where it placed 1st out of 12
+## [And Many More](https://jbernard3396.itch.io/)
+Feel free to check out these extra examples of my personal games. The games are more or less sorted from top to bottom by quality and accessibility.
 
 # Coding Projects
 
@@ -44,8 +47,13 @@ After we implemented the core algorythm, we were able to work closely with the c
 We were able to not only label all of the maps they had on hand, we also left them with a product that they can use to label maps for years to come.
 
 
-## OTher projects to highlight
+## Other projects to highlight
 https://github.com/jbernard3396/Tessalations
 https://github.com/jbernard3396/FizzBuzz
 https://github.com/jbernard3396/PlaylistAlgorythm
-codingames
+Ghost in the Cell
+https://www.codingame.com/share-replay/587216365
+
+Professional work
+https://safesport.org/
+
