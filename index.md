@@ -49,11 +49,16 @@ We were able to not only label all of the maps they had on hand, we also left th
 
 ## Other projects to highlight
 https://github.com/jbernard3396/Tessalations
+
 https://github.com/jbernard3396/FizzBuzz
+
 https://github.com/jbernard3396/PlaylistAlgorythm
+
 Ghost in the Cell
+
 https://www.codingame.com/share-replay/587216365
 
 Professional work
+
 https://safesport.org/
 
